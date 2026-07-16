@@ -75,7 +75,7 @@ npm run build
 ```
 
 ## Termcord not found?
-Install it via npm: ``npm install termcord -g``
+Install it via npm: ``npm install  -g termcord``
 
 ## List of commands in termcord
 Run termcord to see what commands there are: ``termcord``
